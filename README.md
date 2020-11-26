@@ -45,8 +45,8 @@ FLowChart:
 
 
 Berikut tampilan hasil code program setelah di Run :
+![pick 4](https://user-images.githubusercontent.com/73014427/100328576-43777400-2fff-11eb-8c09-0fe9aea46a2c.png)
 
-07_Tugas Parktikum 4
 
 Cukup sekian penjelasan dari saya.
 
