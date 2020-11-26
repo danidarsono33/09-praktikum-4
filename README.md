@@ -41,7 +41,8 @@ Untuk menampilakan Data dengan perintah print dengan kode perulangan dan border 
 
 FLowChart:
 
-07_Tugas Parktikum 4
+![pict 5](https://user-images.githubusercontent.com/73014427/100328591-4a05eb80-2fff-11eb-951a-eb133044ce47.jpg)
+
 
 Berikut tampilan hasil code program setelah di Run :
 
