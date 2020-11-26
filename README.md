@@ -18,7 +18,7 @@ Tugas : Pertemuan 9
 
 Tugas Praktikum : Buat program sederhana untuk menambahkan data kedalam sebuah list
 
-07_Tugas Parktikum 4
+![pick 1](https://user-images.githubusercontent.com/73014427/100328509-2fcc0d80-2fff-11eb-8e6f-a1890fabb700.png)
 
 07_Tugas Parktikum 4
 
