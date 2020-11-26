@@ -23,7 +23,7 @@ Tugas Praktikum : Buat program sederhana untuk menambahkan data kedalam sebuah l
 ![pick 2](https://user-images.githubusercontent.com/73014427/100328530-33f82b00-2fff-11eb-9bc2-e65b6e12b6b4.png)
 
 Kita ketik Code perintah python yang sudah kita buat nama Latihan4.py :
-07_Tugas Parktikum 4 07_Tugas Parktikum 4
+![pick 3](https://user-images.githubusercontent.com/73014427/100328554-39ee0c00-2fff-11eb-83e1-dea494b9d796.png)
 
 Penjelasan :
 
